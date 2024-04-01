@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Alina-Pishak/heat-map"><img src="./src/img/empty-map.jpg" alt="Heatmap App" width="200"></a>
+  <a href="https://github.com/Alina-Pishak/heat-map"><img src="./src/img/empty-map.jpg" alt="Heatmap App" width="400"></a>
   <br>
 Heatmap App
   <br>
