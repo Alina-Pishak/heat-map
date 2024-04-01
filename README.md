@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/Alina-Pishak/heat-map"><img src="./src/img/empty-map.jpg" alt="Heatmap App" width="200"></a>
   <br>
-Heatmap Ap
+Heatmap App
   <br>
 </h1>
 
