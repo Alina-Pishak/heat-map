@@ -3,7 +3,7 @@ import * as Dropzone from "react-dropzone";
 import axios from "axios";
 
 interface FileUploaderProps {
-  onFileUploaded: (data: []) => void;
+  onFileUploaded: (data: string) => void;
 }
 
 const FileUploader: React.FC<FileUploaderProps> = ({ onFileUploaded }) => {
